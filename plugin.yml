@@ -1,0 +1,8 @@
+name: BlockFallOptimization
+main: luxielx.Main
+version: 1
+author: Luxiel
+api-version: 1.16
+depend: []
+commands:
+
